@@ -1,0 +1,4 @@
+- git init: Khoi tao repo
+- git status: Kiem tra trang thai
+- git add: Dua tep vao staging
+- git commit: Luu snaphot
